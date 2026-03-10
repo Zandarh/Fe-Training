@@ -94,6 +94,7 @@ footer {
 
 .about{
     margin-top: 30px;
+    padding: 20px;
 }
 /* Responsive heading for small screens */
 @media (max-width: 767px) {
